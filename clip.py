@@ -1,6 +1,7 @@
 #!/bin/python3
 
 from rich.console import Console
+from rich.markdown import Markdown
 
 def title_header():
     console = Console()
@@ -16,6 +17,14 @@ def title_header():
         "*****************[/]\n\n")
 
 
+def about_clip():
+    with open("README.md", "r") as f:
+        markdown_text = f.read()
+
+    md = Markdown(markdown_text)
+    rich.print(md)
+
+
 def main_menu():
     console = Console()
     console.print(
@@ -25,3 +34,5 @@ def main_menu():
 if __name__=='__main__':
     title_header()
     main_menu()
+
+

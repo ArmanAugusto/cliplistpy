@@ -1,1 +1,1 @@
-CLIP - Command Line Items Priority
+CLIP - Command Line Item Priorities
