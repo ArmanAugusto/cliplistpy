@@ -1,11 +1,10 @@
-CLIP - Command Line Item Priorities
-version 0.0.01
+    CLIP - Command Line Item Priorities
 
 
-(IN DEVELOPMENT)
-CLIP is essentially an item tracker in which priority levels,
-estimated start and completion dates, as well as actual start
-and completion dates can be set for each item.
+    (IN DEVELOPMENT)
+    CLIP is essentially an item tracker in which priority levels,
+    estimated start and completion dates, as well as actual start
+    and completion dates can be set for each item.
 
-USE CASES:
-project tracker
+    USE CASES:
+    project tracker
