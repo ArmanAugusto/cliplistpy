@@ -1,0 +1,17 @@
+    CLIPListPy - Command Line Item Priorities List
+
+
+    (IN DEVELOPMENT)
+    CLIPListPy is a console application that is  essentially an 
+    item tracker in which priority levels, estimated start and 
+    completion dates, as well as actual start and completion 
+    dates can be set for each item.
+
+    CLIPListPy is written in Python, hence the "Py" at the end
+    of the name.
+
+    USE CASES:
+    project tracker
+    daily list
+    jobs
+    .etc...

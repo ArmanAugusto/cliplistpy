@@ -1,1 +1,5 @@
-CLIP - Command Line Item Priorities
+CLIPListPy - Command Line Item Priorities List
+
+
+packages used:
+  rich
