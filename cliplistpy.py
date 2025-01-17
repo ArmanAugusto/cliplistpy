@@ -37,7 +37,7 @@ def main_menu():
         "\n\t\t[bold cornflower_blue]3[/] " +
         "- [bold light_sky_blue1]Remove Item[/]"
         "\n\t\t[bold cornflower_blue]4[/] " +
-        "- [bold light_sky_blue1]About CLIPListPy[/]\n\n")
+        "- [bold light_sky_blue1]About CLIPListPy [/]\n\n")
 
 
 def main_menu_actions():
